@@ -24,3 +24,5 @@ HTML: The structure of the web page, including the search form and result displa
 CSS: Styles for the visual presentation of the application, using custom color schemes and responsive design.
 
 JavaScript: Handles user interactions, sends requests to the Wikipedia API, and dynamically updates the UI with search results.
+
+Click here for Live Demo https://unrivaled-arithmetic-42b4ef.netlify.app
